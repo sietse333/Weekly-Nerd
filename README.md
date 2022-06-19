@@ -8,7 +8,7 @@
 
 ## Weekly nerds
 
-* [Cyd stumpel](#Weekly-nerds-notes cyd-stumpel)
+* [Cyd stumpel](Weekly-nerds-notes cyd-stumpel)
 * [Beschrijving](#beschrijving)
 * [Beschrijving](#beschrijving)
 * [Beschrijving](#beschrijving)
