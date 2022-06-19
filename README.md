@@ -2,5 +2,5 @@
 
 De weekly nerd is een wekelijks persoon die een presentatie houd in het thema van web design of web development. Ook zijn we naar 4 verschillende bedrijven geweest om informatie op te doen over het bedrijfs leven. Dit heet The weekly mingle. Als laatste heb ik 3 artikelen geschreven over onderwerpen die ik interessant vond over deze 2 onderwerpen. 
 
-Dit allemaal kan je vinden in mijn wiki. Hier de link om daar naar toe te gaan! [wiki](wiki)
+Dit allemaal kan je vinden in mijn wiki. Hier de link om daar naar toe te gaan! [wiki]([wiki](https://github.com/sietse333/Weekly-Nerd/blob/main/README.md))
 
